@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Oximy
+- 👀 I’m interested in Computer Programming
+- 🌱 I’m currently learning HTML & CSS
+- 📫 How to reach me | Discord: Oximy#5392, Email: oximyinc@gmail.com
